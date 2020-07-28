@@ -7,7 +7,7 @@ public class LanbdaTest {
     }
 
     public static void main(String[] args) {
-        //jdk 8 新特性 lanbda 表达式
+        //jdk 1.8 新特性 之 lanbda 表达式 
         //传递实现类
         call(new TestInterfaceImpl());
         //匿名内部类
